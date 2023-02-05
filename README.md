@@ -18,7 +18,7 @@ Naming conventions do apply:
 
 * For route "users" index.php, UserController.php and UserGateway.php are needed.
 
-* For route "parcels" index.php, ParcelController.php and ParcelGateway.php are needed, as well as the User files mentioned above, as the parcel data contains the user's id and is needed for responses.
+* For route "parcels" index.php, ParcelController.php and ParcelGateway.php are needed, as well as the User files mentioned above, as the parcel data contains the user's id which is needed for responses.
 
 
 **user data:**
